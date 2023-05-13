@@ -32,6 +32,8 @@ const getImages = async() => {
   }
 }
 
+  console.log(value)
+
   return (
     <div className="app">
       <section className="search-section"></section>
